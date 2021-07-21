@@ -1,4 +1,4 @@
-# web-designs
+# list of web designs
 some of my individual works and exerceises on web application development and web structuring  
   
 - web applications:  
