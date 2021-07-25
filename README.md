@@ -1,7 +1,7 @@
 # list of web designs
 some of my individual works and exerceises on web application development and web structuring  
   
-- web applications:  
+- ★ web applications ★:  
 https://github.com/kielam30/Random-Joke-Machine-ReactRedux  
 https://github.com/kielam30/Markdown-Previewer-React  
 https://github.com/kielam30/Drum-Machine-ReactRedux  
