@@ -1,12 +1,12 @@
 # list of web designs
 some of my individual works and exerceises on web application development and web structuring  
   
-- ★ web applications ★:  
+- web applications:  
 https://github.com/kielam30/Random-Joke-Machine-ReactRedux  
 https://github.com/kielam30/Markdown-Previewer-React  
 https://github.com/kielam30/Drum-Machine-ReactRedux  
 https://github.com/kielam30/JS-Calculator-ReactRedux  
-https://github.com/kielam30/Pomodoro-Timer-ReactRedux ==== ★latest work★  
+https://github.com/kielam30/Pomodoro-Timer-ReactRedux 
   
 - using web builder for practicing web content structure:  
 fansite https://kielam30.wixsite.com/idleland/  
